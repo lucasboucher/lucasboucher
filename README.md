@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas Boucher
 - 📍 I am based in France, in the Paris area
-- 🌱 I am an student in HETIC and aspiring creative web developer
+- 🌱 I am an student in HETIC and aspiring creative developer
 - 📫 You can contact me at [contact@lucasboucher.fr](mailto:contact@lucasboucher.fr)
 - 🌐 And visite my website here : [lucasboucher.fr](https://lucasboucher.fr)
 
