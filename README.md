@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lucasboucher
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Lucas Boucher
+- 📍 I am based in France, in the Paris area
+- 🌱 I am an student and aspiring web developer
+- 📫 You can contact me at [contact@lucasboucher.fr](mailto:contact@lucasboucher.fr)
+- 🌐 And visite my website here : [lucasboucher.fr](https://lucasboucher.fr)
 
 <!---
 lucasboucher/lucasboucher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
